@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Gonzaga</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-<img aling="right" alt="Data" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertovdc&label=Profile%20views&color=0e75b6&style=flat" alt="albertovdc" /> </p>
 
